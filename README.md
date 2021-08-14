@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tubnut
 - 👀 I’m interested in coding and computers
-- 🌱 I’m currently learning Python 3 and C++
+- 🌱 I’m currently learning Python 3 and C#
 - 💞️ I’m looking to collaborate on projects where I can learn something new
 - 📫 How to reach me: I'm still trying to find ways for people to reach me that I feel comfortable with
 
